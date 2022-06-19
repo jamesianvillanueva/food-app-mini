@@ -1,26 +1,22 @@
 export const Links =[
     {
         name:"All",
-        link:"/"
+        id:"all"
     },
     {
         name:"Breakfast",
-        link:"/"
+        id:"breakfast"
     },
     {
-        name:"Lunches",
-        link:"/"
-    },
-    {
-        name:"Dinner",
-        link:"/"
+        name:"Main",
+        id:"main"
     },
     {
         name:"Drinks",
-        link:"/"
+        id:"drinks"
     },
     {
         name:"Fastfood",
-        link:"/"
+        id:"fastfood"
     },
 ];
